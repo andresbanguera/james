@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="co.com.sirad.focus" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>FOCUS</name>
+    <description>
+        FOCUS / Intranet :: SIRAD&TEZERA
+    </description>
+    <author email="sistemas@tezera.org" href="http://focus.sirad.com.co">
+        andres Banguera Rodriguuez
+    </author>
+    <icon src="logo.png" />
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
